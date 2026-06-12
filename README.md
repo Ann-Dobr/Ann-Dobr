@@ -31,7 +31,7 @@ and connect systems that weren't meant to talk to each other.
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [eFootball Stats Automation](https://github.com/Ann-Dobr/efootball-stats-automation) | OCR pipeline: screenshots → GPT-4o Vision → Google Sheets | n8n, GPT-4o, Telegram, JS |
-| Voice Agent Manager *(coming soon)* | Telegram bot for managing ElevenLabs voice agents | n8n, Telegram, MySQL |
+| [Voice Agent Manager](https://github.com/Ann-Dobr/voice-agent-manager) | Telegram bot for managing ElevenLabs voice agents — create, configure via text or voice | n8n, GPT-4o, Whisper, Telegram, MySQL |
 | AI Architect Studio *(coming soon)* | Generates BPMN & Mermaid diagrams from text prompts | n8n, GPT-4o, HTML/JS |
 
 ---
