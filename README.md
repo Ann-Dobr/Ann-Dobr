@@ -32,7 +32,7 @@ and connect systems that weren't meant to talk to each other.
 |---------|-------------|-------|
 | [eFootball Stats Automation](https://github.com/Ann-Dobr/efootball-stats-automation) | OCR pipeline: screenshots → GPT-4o Vision → Google Sheets | n8n, GPT-4o, Telegram, JS |
 | [Voice Agent Manager](https://github.com/Ann-Dobr/voice-agent-manager) | Telegram bot for managing ElevenLabs voice agents — create, configure via text or voice | n8n, GPT-4o, Whisper, Telegram, MySQL |
-| AI Architect Studio | Web tool that generates BPMN, Flowchart, Sequence, ER and other diagrams from text or images | n8n, GPT-4o, Mermaid.js, bpmn-js, HTML/JS |
+| [AI Architect Studio](https://github.com/Ann-Dobr/AI_Architect_Studio) | Web tool that generates BPMN, Flowchart, Sequence, ER and other diagrams from text or images | n8n, GPT-4o, Mermaid.js, bpmn-js, HTML/JS |
 
 ---
 
